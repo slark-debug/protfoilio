@@ -20,7 +20,7 @@ const Contact = () => {
           transition={{ duration: 0.8 }}
           className="text-4xl font-bold mb-8"
         >
-          Let's Connect
+          Let us Connect
         </motion.h2>
         <motion.p
           initial={{ opacity: 0, y: 50 }}
@@ -28,7 +28,7 @@ const Contact = () => {
           transition={{ duration: 0.8, delay: 0.2 }}
           className="text-xl text-gray-300 mb-12 max-w-2xl mx-auto"
         >
-          I'm always interested in new opportunities and collaborations.
+          I am always interested in new opportunities and collaborations.
           Feel free to reach out for AI/ML projects, consulting, or just to say hello!
         </motion.p>
         <motion.div
