@@ -13,7 +13,7 @@ const Hero = () => {
           transition={{ duration: 0.8 }}
           className="text-5xl md:text-7xl font-bold mb-4 bg-gradient-to-r from-white to-gray-300 bg-clip-text text-transparent"
         >
-          Pavan Kumar
+          Pavan Yadav A
         </motion.h1>
         <motion.p
           initial={{ opacity: 0, y: 50 }}

@@ -58,7 +58,7 @@ const Contact = () => {
           transition={{ duration: 0.8, delay: 0.6 }}
           className="mt-12 text-gray-400"
         >
-          <p>&copy; 2024 Pavan Kumar. All rights reserved.</p>
+          <p>&copy; 2024 Pavan Yadav. All rights reserved.</p>
         </motion.div>
       </div>
     </section>
