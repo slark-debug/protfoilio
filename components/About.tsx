@@ -7,10 +7,9 @@ const About = () => {
   const skills = [
     { icon: FaPython, name: 'Python', color: 'text-yellow-400' },
     { icon: FaBrain, name: 'Machine Learning', color: 'text-purple-400' },
-    { icon: FaChartLine, name: 'Data Science', color: 'text-blue-400' },
-    { icon: FaReact, name: 'React', color: 'text-cyan-400' },
+    { icon: FaChartLine, name: 'AI', color: 'text-blue-400' },
     { icon: FaDatabase, name: 'Databases', color: 'text-green-400' },
-    { icon: FaCloud, name: 'Cloud Computing', color: 'text-orange-400' },
+    { icon: FaCloud, name: 'Mannual Testing', color: 'text-orange-400' },
   ]
 
   return (
