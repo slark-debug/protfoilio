@@ -12,7 +12,7 @@ const Navigation = () => {
       className="fixed top-0 w-full bg-gray-800 bg-opacity-90 backdrop-blur-sm z-50"
     >
       <div className="container mx-auto px-4 py-4 flex justify-between items-center">
-        <h1 className="text-xl font-bold text-accent">PK</h1>
+        <h1 className="text-xl font-bold text-accent">PY</h1>
         <ul className="hidden md:flex space-x-6">
           <li><a href="#hero" className="hover:text-accent transition-colors duration-300">Home</a></li>
           <li><a href="#about" className="hover:text-accent transition-colors duration-300">About</a></li>

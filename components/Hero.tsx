@@ -21,8 +21,7 @@ const Hero = () => {
           transition={{ duration: 0.8, delay: 0.2 }}
           className="text-xl md:text-2xl text-gray-300 mb-8 max-w-2xl mx-auto"
         >
-          AI/ML Engineer & Data Scientist specializing in machine learning, deep learning, and scalable AI solutions
-        </motion.p>
+          AI/ML Engineer </motion.p>
         <motion.a
           initial={{ opacity: 0, y: 50 }}
           animate={{ opacity: 1, y: 0 }}
