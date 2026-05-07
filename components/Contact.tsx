@@ -5,7 +5,7 @@ import { FaEnvelope, FaLinkedin, FaGithub, FaTwitter } from 'react-icons/fa'
 
 const Contact = () => {
   const contacts = [
-    { icon: FaEnvelope, label: 'Email', href: 'mailto:pavan@example.com', text: 'pavan@example.com' },
+    { icon: FaEnvelope, label: 'Email', href: '<mailto:1sp20is011@gmail.com></mailto:1sp20is011@gmail.com>', text: '1sp20is011@gmail.com' },
     { icon: FaGithub, label: 'GitHub', href: 'https://github.com/pavankumar', text: 'github.com/pavankumar' },
     { icon: FaTwitter, label: 'Phone Number', href: 'tel:9606294256', text: '+91 9606294256' }
   ]
